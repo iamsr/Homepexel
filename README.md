@@ -7,7 +7,7 @@
 
 A beautiful homepage for browsers to start you session with some beautiful images provided by Pexel. Its is like *momentum* extension available in most of the browsers.
 It uses simple Javascript, HTML, and CSS. For background images Pexel API is being used. There are other good API 
-available like Pixabay etc.
+available like Pixabay.
 
 ## How to use?
 
@@ -17,16 +17,18 @@ available like Pixabay etc.
  
          |  apikey = yourkey; |
  
-  *Other modification provided in comments*
+       *Other modification provided in comments*
 
 4. Set page as your default homepage.
 5. Type whatever category images you want in search bar.
+6. For further customization read Pexel API documentation.
 6. DONE!
 
 ## SCREENSHOTS
 
 
 ![alt text](Readme/screenshot1.png "Screenshot") 
+
 ![alt text](Readme/screenshot2.png "Screenshot")
 
 ![alt text](Readme/screenshot4.png "Screenshot")
