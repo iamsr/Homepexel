@@ -1,5 +1,5 @@
 # Homepexel
 
-![alt text](Readme/screenshot1.png "Screenshot")
+![alt text](Readme/screenshot3.png "Screenshot")
 
  
