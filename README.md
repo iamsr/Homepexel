@@ -15,9 +15,9 @@ available like Pixabay etc.
 2. Request API access key from Pexel https://www.pexels.com/api/ 
 3. Once you get the API key open "homepage.js" and set 
  
- |  apikey = yourkey; |
+         |  apikey = yourkey; |
  
- Other modification provided in comments
+  *Other modification provided in comments*
 
 4. Set page as your default homepage.
 5. Type whatever category images you want in search bar.
@@ -30,7 +30,6 @@ available like Pixabay etc.
 ![alt text](Readme/screenshot2.png "Screenshot")
 
 ![alt text](Readme/screenshot4.png "Screenshot")
-
 
 ![alt text](Readme/screenshot5.png "Screenshot")
 
